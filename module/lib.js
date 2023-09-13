@@ -1,4 +1,7 @@
-function halfOf(x){
-    return x/2;
+export function halfOf(x){
+    return x / 2;
 }
-export function multipl
+
+export function multiply(x, y){
+    return x * y;
+}
